@@ -35,6 +35,7 @@ How much work is expected?
 There is no lower limit on the number of lines of code you are supposed to produce, since a big part of the project is to invent the idea, research the topic, and then plan and design the solution. The report should convey how much effort you spent on this part. You can expect to spend around a week of fulltime work to compete the project.
 
 **Project ideas**
+
 These are just suggestions to get your creativity flowing -- you don't have to choose among these, but they can be a point of inspiration for your own ideas. To find interesting datasets, look for instance on KaggleLenker til eit ekstern område., UCI ML repositoryLenker til eit ekstern område., or Google Dataset SearchLenker til eit ekstern område..
 
 Make a web app to
