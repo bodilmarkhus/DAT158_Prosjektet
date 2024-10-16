@@ -10,7 +10,7 @@ Create a model from bottom up, following the steps of the ML project lifecycle w
 Build your project on top of existing ML products, such as the large language model (LLM) that powers ChatGPT. If you want to build a chatbot or an image generation tool, it is far beyond the scope of the course to train this type of model from scratch -- which is also the case for most businesses. In this case we have to build the project around the API of a pre-made model.
 Remember that if you go for this approach, you still need to adapt the solution to your use-case (you can't just make a generic ChatGPT clone).
  
-Instructions
+**Instructions**
 You should work in groups of 2-3 students.
 You are allowed to use AI coding tools and take inspiration from solutions you find on the Internet, but you need to cite sources you use. Plagiarism is, as always, strictly forbidden.
 You must write a short report documenting your work, following this template: Norwegian, English. It's a good idea to start writing as soon as you have a plan for the project, as this helps you focus. You can upload the template to Google Docs for easier collaborative writing.
@@ -34,7 +34,7 @@ Video of you showing the features of the website
 How much work is expected?
 There is no lower limit on the number of lines of code you are supposed to produce, since a big part of the project is to invent the idea, research the topic, and then plan and design the solution. The report should convey how much effort you spent on this part. You can expect to spend around a week of fulltime work to compete the project.
 
-Project ideas
+**Project ideas**
 These are just suggestions to get your creativity flowing -- you don't have to choose among these, but they can be a point of inspiration for your own ideas. To find interesting datasets, look for instance on KaggleLenker til eit ekstern område., UCI ML repositoryLenker til eit ekstern område., or Google Dataset SearchLenker til eit ekstern område..
 
 Make a web app to
