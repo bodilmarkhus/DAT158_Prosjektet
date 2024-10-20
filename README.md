@@ -53,3 +53,8 @@ Some suggestions for ways to easily host your website:
 
 GradioLenker til eit ekstern område.
 StreamlitLenker til eit ekstern område.
+
+## Notes
+
+Bruk en Random Forest Classifier (kap 7 i lizard boken), med Decision Trees (kap 6 i lizard boken).
+Det er en av de sterkeste modellene som finnes og brukes i mange større maskinlæringsmodeller.
