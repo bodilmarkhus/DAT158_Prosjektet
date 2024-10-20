@@ -61,6 +61,8 @@ Some suggestions for ways to easily host your website:
 - Streamlit ([her](https://streamlit.io/)).
 
 ## Our Own Notes
+**Anbefaler alle å lese kap. 1, 2, 3, 4, 6, 7 i lizard boken, da dette er teori som ligger bak maskinlæringsmodellene. Det ligger også notebooks ute som er lurt å gå gjennom selv om man ikke forstår alt med en gang - *den er designet slik!***
+
 ### Immediate Thoughts
 Bruk en Random Forest Classifier (kap. 7 i lizard boken), med Decision Trees (kap. 6 i lizard boken).
 Det er en av de sterkeste modellene som finnes og brukes i mange større maskinlæringsmodeller.
