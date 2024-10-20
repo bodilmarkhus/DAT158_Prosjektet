@@ -64,3 +64,7 @@ Some suggestions for ways to easily host your website:
 ### Immediate Thoughts
 Bruk en Random Forest Classifier (kap 7 i lizard boken), med Decision Trees (kap 6 i lizard boken).
 Det er en av de sterkeste modellene som finnes og brukes i mange større maskinlæringsmodeller.
+
+## Google Drive
+Vi har en google drive til dokumenter, rapportskriving og annet nyttig.
+Den finnes [her](https://drive.google.com/drive/folders/1YO_cdITiRyF1ruG6hA6MQTmpEVm-r7tf?usp=drive_link).
