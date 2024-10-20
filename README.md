@@ -62,11 +62,13 @@ Some suggestions for ways to easily host your website:
 
 ## Our Own Notes
 ### Immediate Thoughts
-Bruk en Random Forest Classifier (kap 7 i lizard boken), med Decision Trees (kap 6 i lizard boken).
+Bruk en Random Forest Classifier (kap. 7 i lizard boken), med Decision Trees (kap. 6 i lizard boken).
 Det er en av de sterkeste modellene som finnes og brukes i mange større maskinlæringsmodeller.
 
-Oppsummering fra kap 7:
-"In conclusion, ensemble methods are versatile, powerful, and fairly simple to use. Random forests, AdaBoost, and GBRT are among the first models you should test for most machine learning tasks, and they particularly shine with heterogeneous tabular data. Moreover, as they require very little preprocessing, they’re great for getting a prototype up and running quickly. Lastly, ensemble methods like voting classifiers and stacking classifiers can help push your system’s performance to its limits."
+**Side 988 i lizard boken tar for seg "A Machine Learning Problem Checklist" som kan være nyttig å få med seg!** Den ligger etter kap. 19.
+
+#### Oppsummering fra kap. 7:
+*"In conclusion, ensemble methods are versatile, powerful, and fairly simple to use. Random forests, AdaBoost, and GBRT are among the first models you should test for most machine learning tasks, and they particularly shine with heterogeneous tabular data. Moreover, as they require very little preprocessing, they’re great for getting a prototype up and running quickly. Lastly, ensemble methods like voting classifiers and stacking classifiers can help push your system’s performance to its limits."*
 
 ## Google Drive
 Vi har en google drive til dokumenter, rapportskriving og annet nyttig.
