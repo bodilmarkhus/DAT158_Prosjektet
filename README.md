@@ -73,14 +73,15 @@ Det er en av de sterkeste modellene som finnes og brukes i mange større maskinl
 *"In conclusion, ensemble methods are versatile, powerful, and fairly simple to use. Random forests, AdaBoost, and GBRT are among the first models you should test for most machine learning tasks, and they particularly shine with heterogeneous tabular data. Moreover, as they require very little preprocessing, they’re great for getting a prototype up and running quickly. Lastly, ensemble methods like voting classifiers and stacking classifiers can help push your system’s performance to its limits."*
 
 #### Static training vs. dynamic training av en ML modell:
-**Advantages**
-*Static training:*	Simpler. You only need to develop and test the model once.
-***Dynamic training:*** More adaptable. Your model will keep up with any changes to the relationship between features and labels.
-
-**Disadvantages** 
-*Static training:*	Sometimes staler. If the relationship between features and labels changes over time, your model's predictions will degrade. 
-***Dynamic training:*** More work. You must build, test, and release a new product all the time.
-
+[from here](https://developers.google.com/machine-learning/crash-course/production-ml-systems/static-vs-dynamic-training) <br />
+**Advantages** <br />
+*Static training:*	Simpler. You only need to develop and test the model once. <br />
+***Dynamic training:*** More adaptable. Your model will keep up with any changes to the relationship between features and labels. <br />
+<br />
+**Disadvantages** <br />
+*Static training:*	Sometimes staler. If the relationship between features and labels changes over time, your model's predictions will degrade. <br />
+***Dynamic training:*** More work. You must build, test, and release a new product all the time. <br />
+<br />
 If your dataset truly isn't changing over time, choose static training because it is cheaper to create and maintain than dynamic training. However, datasets tend to change over time, even those with features that you think are as constant as, say, sea level. The takeaway: even with static training, you must still monitor your input data for change.
 
 ## Google Drive
