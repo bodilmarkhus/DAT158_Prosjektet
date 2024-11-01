@@ -85,6 +85,9 @@ Det er en av de sterkeste modellene som finnes og brukes i mange større maskinl
 <br />
 If your dataset truly isn't changing over time, choose static training because it is cheaper to create and maintain than dynamic training. However, datasets tend to change over time, even those with features that you think are as constant as, say, sea level. The takeaway: even with static training, you must still monitor your input data for change.
 
+#### Framing a problem with ML
+Svært nyttig å gå gjennom [dette korte kurset fra Google](https://developers.google.com/machine-learning/problem-framing/problem-framing) om hvordan man definerer og spesifiserer en ML modell, og hva akkurat denne modellen skal gjøre.
+
 ## Google Drive
 Vi har en google drive til dokumenter, rapportskriving og annet nyttig.
 Den finnes [her](https://drive.google.com/drive/folders/1YO_cdITiRyF1ruG6hA6MQTmpEVm-r7tf?usp=drive_link).
