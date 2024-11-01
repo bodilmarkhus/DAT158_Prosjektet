@@ -73,8 +73,8 @@ Det er en av de sterkeste modellene som finnes og brukes i mange større maskinl
 *"In conclusion, ensemble methods are versatile, powerful, and fairly simple to use. Random forests, AdaBoost, and GBRT are among the first models you should test for most machine learning tasks, and they particularly shine with heterogeneous tabular data. Moreover, as they require very little preprocessing, they’re great for getting a prototype up and running quickly. Lastly, ensemble methods like voting classifiers and stacking classifiers can help push your system’s performance to its limits."*
 
 #### Static training vs. dynamic training av en ML modell:
-[from here](https://developers.google.com/machine-learning/crash-course/production-ml-systems/static-vs-dynamic-training)
-<br />
+[fra Google's ML kurs her](https://developers.google.com/machine-learning/crash-course/production-ml-systems/static-vs-dynamic-training)
+<br /> <br />
 **Advantages** <br />
 *Static training:*	Simpler. You only need to develop and test the model once. <br />
 ***Dynamic training:*** More adaptable. Your model will keep up with any changes to the relationship between features and labels. <br />
