@@ -88,6 +88,9 @@ If your dataset truly isn't changing over time, choose static training because i
 #### Framing a problem with ML
 Svært nyttig å gå gjennom [dette korte kurset fra Google](https://developers.google.com/machine-learning/problem-framing/problem-framing) om hvordan man definerer og spesifiserer en ML modell, og hva akkurat denne modellen skal gjøre. [Denne seksjonen av kurset](https://developers.google.com/machine-learning/problem-framing/ml-framing#classification) er spesielt relevant! A great summary can be found [here](https://developers.google.com/machine-learning/problem-framing/summary).
 
+#### The lectures from ML module 3 go through how to build this project from beginning to end.
+This website was recommended to host our website for the ML model, [streamlit.io](https://streamlit.io/).
+
 ## Google Drive
 Vi har en google drive til dokumenter, rapportskriving og annet nyttig.
 Den finnes [her](https://drive.google.com/drive/folders/1YO_cdITiRyF1ruG6hA6MQTmpEVm-r7tf?usp=drive_link).
